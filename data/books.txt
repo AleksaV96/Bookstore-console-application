@@ -1,0 +1,12 @@
+1|Herman Hese|Stepski vuk|1927|600|38|Filozofija|1111111111111
+1|Marko Aurelije|Samom Sebi|175|700|65|Filozofija|3232329487535
+1|Ekart Tol|Moc sadasnjeg trenutka|2001|800|90|Filozofija|3453245980234
+1|E L James|50 nijansi sive|2012|450|200|Romantika|2345320987538
+1|Herman Hese|Sidarta|1923|230|43|Filozofija|5543534534534
+1|Herman Hese|Narcis i zlatousti|1921|450|50|Filozofija|1234567891234
+1|Dostojevski|Idiot|1880|450.0|50|Filozofija|1234567891234
+1|Herman Hese|Igra staklenih perli|1943|700.0|44|Filozofija|5748392837485
+1|Stefani Mejer|Hemicar|1995|700.0|67|Krimi|2376859403994
+1|Stefani Mejer|Hemicar|2005|700.0|36|Krimi|9788610018349
+1|Mario Puzo|Kum|1969|599.0|49|Krimi|1112223334444
+1|Ivo Andric|Prokleta avlija|1975|400.0|72|Filozofija|1234567898765

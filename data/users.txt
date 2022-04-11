@@ -1,0 +1,2 @@
+Korisnik1|Aleksa|Vujic|1996123|Menadzer
+Korisnik2|Ognjen|Vujic|123123|Prodavac
